@@ -1,0 +1,35 @@
+<nav class="navbar bg-light fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Estatery</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+        Add Rental
+      </button>
+      <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          
+          <form *ngIf="login" class="" style="display:grid" (ngSubmit)="onSubmit()">
+            <input class="form-control me-2" type="text" [(ngModel)]="title" name="title" placeholder="title">
+            <input class="form-control me-2" type="text" [(ngModel)]="trend" name="trend" placeholder="trend">
+            <input class="form-control me-2" type="text" [(ngModel)]="rent" name="rent" placeholder="rent">
+            <input class="form-control me-2" type="text" [(ngModel)]="beds" name="beds" placeholder="beds">
+            <input class="form-control me-2" type="text" [(ngModel)]="bathrooms" name="bathrooms" placeholder="bathrooms">
+            <input class="form-control me-2" type="text" [(ngModel)]="area" name="area" placeholder="area">
+            <input class="form-control me-2" type="text" [(ngModel)]="src" name="src" placeholder="image-src">
+            <input class="form-control me-2" type="text" [(ngModel)]="address" name="address" placeholder="address">
+            <input class="form-control me-2" type="text" [(ngModel)]="price" name="price" placeholder="price">
+            <input class="form-control me-2" type="datetime-local" [(ngModel)]="date" name="date" placeholder="date">
+            <input class="form-control me-2" type="text"  [(ngModel)]="city" name="city" placeholder="city">
+            <input class="form-control me-2" type="text" [(ngModel)]="property" name="property" placeholder="property">
+
+            <button class="btn btn-outline-success" type="submit">Submit</button>
+          </form>
+          <app-login *ngIf="!login"></app-login>
+        </div>
+      </div>
+    </div>
+  </nav>
+  

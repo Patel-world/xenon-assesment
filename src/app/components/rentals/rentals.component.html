@@ -1,0 +1,14 @@
+<div class="g3 container">
+ 
+    
+      <app-rental-items
+        *ngFor="let rental of currentRentals"
+        [rental]="rental"
+        
+      ></app-rental-items>
+      <app-pagination
+      (onPaginateClick)="paginate()"
+      ></app-pagination>
+    
+
+</div>

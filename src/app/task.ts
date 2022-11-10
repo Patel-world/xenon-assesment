@@ -1,0 +1,16 @@
+export interface Task {
+    id: number,
+    createdBy:string,
+        trend: string,
+        title: string,
+        rent: string,
+        beds: string,
+        bathrooms: string,
+        area: string,
+        src: string,
+        address: string,
+        price: string,
+        date: string,
+        city: string,
+        property: string,
+  }
