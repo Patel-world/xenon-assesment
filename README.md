@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Project Description
 
-<p style="colo:blue">Estatery web page to Rental properties</p>
+<h4 style="colo:blue">Estatery web page to Rental properties</h4>
 <img src="https://i.imgur.com/oX8nId6.png" alt="Alt text" title="Optional title">
 
 <p style="colo:blue">with Pagination enabled</p>
