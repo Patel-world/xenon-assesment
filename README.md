@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
+# Backend
+
+Our backend is built over django rest framework 
+code can be found on <a href="https://github.com/Patel-world/xenon-assesment/tree/backend">backend</a>
+and can be seen live here <a href="https://estatery-drf.herokuapp.com/rentals/">https://estatery-drf.herokuapp.com/rentals/<a>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
