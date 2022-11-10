@@ -11,9 +11,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 <h4 style="colo:blue">Estatery web page to Rental properties</h4>
 <img src="https://i.imgur.com/oX8nId6.png" alt="Alt text" title="Optional title">
 
-<p style="colo:blue">with Pagination enabled</p>
+<h4 style="colo:blue">with Pagination enabled</h4>
 <img src="https://i.imgur.com/GLJUxAR.png" alt="Alt text" title="Optional title">
 
 
-<p style="colo:blue">with Pagination enabled</p>
-<img src="https://i.imgur.com/GLJUxAR.png" alt="Alt text" title="Optional title">
+<h4 style="colo:blue">with function to add rentals</h4>
+<img src="https://i.imgur.com/Ur6cqQc.png" alt="Alt text" title="Optional title">
+
+<h4 style="colo:blue">with contact form option</h4>
+<img src="https://i.imgur.com/HrGI81j.png" alt="Alt text" title="Optional title">
