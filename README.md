@@ -20,6 +20,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 <h4 style="colo:blue">Estatery web page to Rental properties</h4>
 <img src="https://i.imgur.com/oX8nId6.png" alt="Alt text" title="Optional title">
 
+<h4 style="colo:blue">with fully responsive</h4>
+<img src="https://i.imgur.com/AfU12dq.png" alt="Alt text" title="Optional title">
+
 <h4 style="colo:blue">with one-tap login via google</h4>
 <img src="https://i.imgur.com/5nqlwSb.png" alt="Alt text" title="Optional title">
 
