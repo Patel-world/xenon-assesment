@@ -1,7 +1,7 @@
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
-Our backend is built over Angular
+Our frontend is built over Angular
 code can be found on <a href="https://github.com/Patel-world/xenon-assesment/tree/frontend">frontend</a>
 and can be seen live here <a href="https://patel-world.github.io/rentals/">https://patel-world.github.io/rentals/<a>
 
