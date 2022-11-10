@@ -8,4 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Project Description
 
-![alt text](https://imgur.com/oX8nId6)
+<img src="https://i.imgur.com/oX8nId6.png" alt="Alt text" title="Optional title">
